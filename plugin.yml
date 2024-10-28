@@ -1,0 +1,5 @@
+author: matejkoo
+description: Changes pumpkin to lantern
+main: main.java.org.matejko.plugin.Pumpkin
+name: PumpkinPower
+version: 2
